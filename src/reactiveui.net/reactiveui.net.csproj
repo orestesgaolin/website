@@ -36,6 +36,7 @@
   <ItemGroup>
     <Content Update="**/*.json" CopyToPublishDirectory="Never" />
     <Content Include="wwwroot\browserconfig.xml" />
+    <Content Include="wwwroot\css\press.css" />
     <Content Include="wwwroot\css\reactiveui-logo.png" />
     <Content Include="wwwroot\favicon.ico" />
     <Content Include="wwwroot\images\espera.png" />
